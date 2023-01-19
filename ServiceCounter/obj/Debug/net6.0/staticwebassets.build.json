@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5X1wqDO0bLJpAoOoktqoaNtCGwtSnoNbpMnbYoaNlDc=",
+  "Source": "ServiceCounter",
+  "BasePath": "_content/ServiceCounter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
